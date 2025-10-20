@@ -50,7 +50,1618 @@ http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111034&extension
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport2.png" ,SPORTS| MY SUPERSPORTS 2 HD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111033&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport3.png" ,SPORTS| MY SUPERSPORTS 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="F1| MOVISTAR FORMULA 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| MOVISTAR FORMULA 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317784&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORT F1 IT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORT F1 IT
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317778&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317781&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317779&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317782&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD DE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 HD DE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317780&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS FORMULA 1 HD IT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS FORMULA 1 HD IT
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317777&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP CANAL+" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP CANAL+
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317816&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP 360" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP 360
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920218&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP HELICOPTER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP HELICOPTER
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920217&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP AMBIENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP AMBIENT
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920216&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP COMMENTARY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP COMMENTARY
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920215&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TRACKING" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP LIVE TRACKING
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920214&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TIMING" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP LIVE TIMING
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920213&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP EVENT 1
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317813&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP EVENT 2
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920211&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP EVENT 3
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920212&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP ON BOARD 1
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317809&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP ON BOARD 2
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317810&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP ON BOARD 3
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317811&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP ON BOARD 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP ON BOARD 4
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317812&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://103.176.90.95/images/1608071.png" ,4K| SKY SPORTS MAIN EVENTS UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1608071&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS F1 UHD" tvg-logo="http://103.176.90.95/images/1761500.png" ,4K| SKY SPORTS F1 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761500&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS 1 UHD" tvg-logo="http://103.176.90.95/images/1608068.png" ,4K| SKY SPORTS 1 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1608068&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS 2 UHD" tvg-logo="http://103.176.90.95/images/1608069.png" ,4K| SKY SPORTS 2 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1608069&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| ZIGGO SPORT UHD" tvg-logo="http://103.176.90.95/images/1481950.png" ,4K| ZIGGO SPORT UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1481950&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| ESPN UHD" tvg-logo="http://103.176.90.95/images/1481941.png" ,4K| ESPN UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1481941&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K| SPORTSNET 360 UHD" tvg-logo="http://103.176.90.95/images/1470603.png" ,4K| SPORTSNET 360 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1470603&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS DARTS UHD" tvg-logo="http://103.176.90.95/images/1471382.png" ,4K| SKY SPORTS DARTS UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1471382&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K| FASHION TV UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" ,4K| FASHION TV UHD/4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491208&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K| TNT SPORTS UHD [EVENT]" tvg-logo="http://103.176.90.95/images/1479591.png" ,4K| TNT SPORTS UHD [EVENT]
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1479591&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORTS UHD [EVENT]" tvg-logo="http://103.176.90.95/images/1471387.png" ,4K| SKY SPORTS UHD [EVENT]
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1471387&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| V SPORT+ UHD" tvg-logo="http://103.176.90.95/images/1632123.png" ,4K| V SPORT+ UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1632123&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| ELEVEN SPORTS 1 UHD" tvg-logo="http://103.176.90.95/images/1470618.png" ,4K| ELEVEN SPORTS 1 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1470618&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4k| V SPORT UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" ,4k| V SPORT UHD/4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1749221&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4k| YES SPORT 5 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/arabic/4K.png" ,4k| YES SPORT 5 UHD/4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1749220&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY SPORT 4K [LIVE-EVENT]" tvg-logo="http://103.176.90.95/images/1753227.png" ,4K| SKY SPORT 4K [LIVE-EVENT]
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1753227&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 1 UHD" tvg-logo="http://103.176.90.95/images/1491180.png" ,4K| SKY PRIMAFILA 1 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491180&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 2 UHD" tvg-logo="http://103.176.90.95/images/1491181.png" ,4K| SKY PRIMAFILA 2 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491181&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 3 UHD" tvg-logo="http://103.176.90.95/images/1491183.png" ,4K| SKY PRIMAFILA 3 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491183&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 4 UHD" tvg-logo="http://103.176.90.95/images/1491184.png" ,4K| SKY PRIMAFILA 4 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491184&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 5 UHD" tvg-logo="http://103.176.90.95/images/1491185.png" ,4K| SKY PRIMAFILA 5 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 6 UHD" tvg-logo="http://103.176.90.95/images/1491186.png" ,4K| SKY PRIMAFILA 6 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491186&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 7 UHD" tvg-logo="http://103.176.90.95/images/1491187.png" ,4K| SKY PRIMAFILA 7 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491187&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 8 UHD" tvg-logo="http://103.176.90.95/images/1491188.png" ,4K| SKY PRIMAFILA 8 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491188&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://103.176.90.95/images/1491189.png" ,4K| SKY PRIMAFILA 9 UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1491189&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN UHD 4K" tvg-logo="http://103.176.90.95/images/1283327.png" ,NL| ESPN UHD 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283327&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283326.png" ,NL| ESPN 1 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283326&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 4K" tvg-logo="http://103.176.90.95/images/1283325.png" ,NL| ESPN 1 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283325&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 ULTRA 4K" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283324&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 4K" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283323&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 ULTRA 4K" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283322&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 4K" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283321&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 ULTRA 4K" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283320&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 4K" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283319&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4K" tvg-logo="http://103.176.90.95/images/1283318.png" ,NL| ZIGGO SPORT 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283318&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283317.png" ,NL| ZIGGO SPORT ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283317&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283316.png" ,NL| ZIGGO SPORT ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283316&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4K" tvg-logo="http://103.176.90.95/images/1283315.png" ,NL| ZIGGO SPORT 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283315&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283314.png" ,NL| ZIGGO SPORT 2 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283314&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 4K" tvg-logo="http://103.176.90.95/images/1283313.png" ,NL| ZIGGO SPORT 2 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283313&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283310.png" ,NL| ZIGGO SPORT 3 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283310&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 4K" tvg-logo="http://103.176.90.95/images/1283309.png" ,NL| ZIGGO SPORT 3 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283309&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283308.png" ,NL| ZIGGO SPORT 4 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283308&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 4K" tvg-logo="http://103.176.90.95/images/1283307.png" ,NL| ZIGGO SPORT 4 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283307&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283312.png" ,NL| ZIGGO SPORT 5 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283312&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 4K" tvg-logo="http://103.176.90.95/images/1283311.png" ,NL| ZIGGO SPORT 5 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283311&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283306.png" ,NL| ZIGGO SPORT 6 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283306&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 4K" tvg-logo="http://103.176.90.95/images/1283305.png" ,NL| ZIGGO SPORT 6 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283305&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 1 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283304.png" ,NL| EUROSPORT 1 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283304&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 1 4K" tvg-logo="http://103.176.90.95/images/1283303.png" ,NL| EUROSPORT 1 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283303&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 2 ULTRA 4K" tvg-logo="http://103.176.90.95/images/1283302.png" ,NL| EUROSPORT 2 ULTRA 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283302&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 2 4K" tvg-logo="http://103.176.90.95/images/1283301.png" ,NL| EUROSPORT 2 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283301&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| CARTOONITO 4K" tvg-logo="http://103.176.90.95/images/1283300.png" ,NL| CARTOONITO 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283300&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| DISNEY CHANNEL 4K" tvg-logo="http://103.176.90.95/images/1283299.png" ,NL| DISNEY CHANNEL 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| COMEDY CENTRAL 4K" tvg-logo="http://103.176.90.95/images/1283298.png" ,NL| COMEDY CENTRAL 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283298&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| CARTOON NETWORK 4K" tvg-logo="http://103.176.90.95/images/1283296.png" ,NL| CARTOON NETWORK 4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283296&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NL | ESPN UHD 8K" tvg-logo="http://103.176.90.95/images/1761579.png" ,NL | ESPN UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761579&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 UHD 8K" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761578&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 UHD 8K" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761577&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 UHD 8K" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761576&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT UHD 8K" tvg-logo="http://103.176.90.95/images/1761575.png" ,NL| ZIGGO SPORT UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761575&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 UHD 8K" tvg-logo="http://103.176.90.95/images/1761574.png" ,NL| ZIGGO SPORT 2 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761574&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 UHD 8K" tvg-logo="http://103.176.90.95/images/1761573.png" ,NL| ZIGGO SPORT 3 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761573&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 UHD 8K" tvg-logo="http://103.176.90.95/images/1761572.png" ,NL| ZIGGO SPORT 4 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761572&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 UHD 8K" tvg-logo="http://103.176.90.95/images/1761571.png" ,NL| ZIGGO SPORT 5 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761571&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 UHD 8K" tvg-logo="http://103.176.90.95/images/1761570.png" ,NL| ZIGGO SPORT 6 UHD 8K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761570&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### NL ALGEMEEN ####" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282730.png" ,#### NL ALGEMEEN ####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282730&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO 1 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282729.png" ,NL| NPO 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282729&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO 2 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282728.png" ,NL| NPO 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282728&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO 3 HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282727.png" ,NL| NPO 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282727&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| RTL 4 HD" tvg-logo="http://103.176.90.92/images/1282726.png" ,NL| RTL 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282726&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| RTL 5 HD" tvg-logo="http://103.176.90.92/images/1282725.png" ,NL| RTL 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282725&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| SBS 6 HD" tvg-logo="http://103.176.90.92/images/1282724.png" ,NL| SBS 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282724&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| RTL 7 HD" tvg-logo="http://103.176.90.92/images/1282723.png" ,NL| RTL 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282723&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| RTL 8 HD" tvg-logo="http://103.176.90.92/images/1282722.png" ,NL| RTL 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| RTL Z HD" tvg-logo="http://103.176.90.92/images/1282721.png" ,NL| RTL Z HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| SBS 9 HD" tvg-logo="http://103.176.90.92/images/1282720.png" ,NL| SBS 9 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| VERONICA / DISNEY JR HD" tvg-logo="http://103.176.90.92/images/1282719.png" ,NL| VERONICA / DISNEY JR HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282719&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NET 5 HD" tvg-logo="http://103.176.90.92/images/1282718.png" ,NL| NET 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO 1 EXTRA HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282717.png" ,NL| NPO 1 EXTRA HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO 2 EXTRA HD" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282716.png" ,NL| NPO 2 EXTRA HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282716&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| NPO POLITIEK" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1283099.png" ,NL| NPO POLITIEK
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1283099&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### NL SPORT #####" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1282771.png" ,##### NL SPORT #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282771&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| VIAPLAY TV 24/7 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/images/1838322.png" ,NL| VIAPLAY TV 24/7 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1838322&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN HD" tvg-logo="http://103.176.90.92/picons/espn.png" ,NL| ESPN HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282769&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 HD" tvg-logo="http://103.176.90.92/picons/espn.png" ,NL| ESPN 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1634105&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 HD" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282768&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 HD" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282767&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 HD" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282766&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT HD" tvg-logo="http://103.176.90.92/images/1282765.png" ,NL| ZIGGO SPORT HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282765&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT HD ²" tvg-logo="http://103.176.90.92/images/1282764.png" ,NL| ZIGGO SPORT HD ²
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282764&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 HD" tvg-logo="http://103.176.90.92/images/1282763.png" ,NL| ZIGGO SPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282763&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 HD" tvg-logo="http://103.176.90.92/images/1282761.png" ,NL| ZIGGO SPORT 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282761&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 HD" tvg-logo="http://103.176.90.92/images/1282760.png" ,NL| ZIGGO SPORT 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282760&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 HD" tvg-logo="http://103.176.90.92/images/1282762.png" ,NL| ZIGGO SPORT 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282762&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 HD" tvg-logo="http://103.176.90.92/images/1282759.png" ,NL| ZIGGO SPORT 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282759&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 1 HD" tvg-logo="http://103.176.90.92/images/1282758.png" ,NL| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282758&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 2 HD" tvg-logo="http://103.176.90.92/images/1282757.png" ,NL| EUROSPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282757&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### NL SPORT FHD #####" tvg-logo="" ,##### NL SPORT FHD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282756&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN FHD" tvg-logo="http://103.176.90.92/picons/espn.png" ,NL| ESPN FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282754&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 FHD" tvg-logo="http://103.176.90.92/picons/espn.png" ,NL| ESPN 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1634106&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 FHD" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282753&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 FHD" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282752&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 FHD" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282751&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT TOTTAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921302.png" ,NL| ZIGGO SPORT TOTTAL ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921302&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT TOTTAL ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921295.png" ,NL| ZIGGO SPORT TOTTAL ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921295&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT FHD" tvg-logo="http://103.176.90.92/images/1282750.png" ,NL| ZIGGO SPORT FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282750&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT FHD ²" tvg-logo="http://103.176.90.92/images/1282749.png" ,NL| ZIGGO SPORT FHD ²
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282749&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921310.png" ,NL| ZIGGO SPORT ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921310&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921301.png" ,NL| ZIGGO SPORT ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921301&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 FHD" tvg-logo="http://103.176.90.92/images/1282748.png" ,NL| ZIGGO SPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282748&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921309.png" ,NL| ZIGGO SPORT 2 ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921309&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921300.png" ,NL| ZIGGO SPORT 2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921300&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 FHD" tvg-logo="http://103.176.90.92/images/1282746.png" ,NL| ZIGGO SPORT 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282746&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921308.png" ,NL| ZIGGO SPORT 3 ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921308&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921299.png" ,NL| ZIGGO SPORT 3 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 FHD" tvg-logo="http://103.176.90.92/images/1282745.png" ,NL| ZIGGO SPORT 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282745&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921307.png" ,NL| ZIGGO SPORT 4 ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921307&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921298.png" ,NL| ZIGGO SPORT 4 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921298&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 FHD" tvg-logo="http://103.176.90.92/images/1282747.png" ,NL| ZIGGO SPORT 5 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282747&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921306.png" ,NL| ZIGGO SPORT 5 ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921306&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921297.png" ,NL| ZIGGO SPORT 5 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921297&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 FHD" tvg-logo="http://103.176.90.92/images/1282744.png" ,NL| ZIGGO SPORT 6 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282744&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 ᴿᴬᵂ ◉" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921305.png" ,NL| ZIGGO SPORT 6 ᴿᴬᵂ ◉
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921305&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 ᵁᴸᵀᴿᴬ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/NETHERLAND/1921296.png" ,NL| ZIGGO SPORT 6 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921296&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.92/images/1282743.png" ,NL| EUROSPORT 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282743&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.92/images/1282742.png" ,NL| EUROSPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1282742&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="### VIAPLAY BUNDESLIGA PPV ####" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,### VIAPLAY BUNDESLIGA PPV ####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1899070&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921001&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1921000&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920999&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920998&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920997&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920996&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920995&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920994&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920993&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920992&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920991&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920990&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920989&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920988&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUNDESLIGA PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" ,NL: BUNDESLIGA PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1920987&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="###### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ ######" tvg-logo="http://51.158.145.100/picons/logos/logos/1891107.png" ,###### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ ######
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1891107&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORT LQ #####" tvg-logo="" ,##### SPORT LQ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988727&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 LQ" tvg-logo="http://103.176.90.95/images/988726.png" ,NL| ESPN 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988726&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 LQ" tvg-logo="http://103.176.90.92/picons/espn2.png" ,NL| ESPN 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988725&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 LQ" tvg-logo="http://103.176.90.92/picons/espn3.png" ,NL| ESPN 3 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988724&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 LQ" tvg-logo="http://103.176.90.92/picons/espn4.png" ,NL| ESPN 4 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988723&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT LQ" tvg-logo="http://103.176.90.95/images/988722.png" ,NL| ZIGGO SPORT LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 2 LQ" tvg-logo="http://103.176.90.95/images/988721.png" ,NL| ZIGGO SPORT 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 3 LQ" tvg-logo="http://103.176.90.95/images/988720.png" ,NL| ZIGGO SPORT 3 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 4 LQ" tvg-logo="http://103.176.90.95/images/988719.png" ,NL| ZIGGO SPORT 4 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988719&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 5 LQ" tvg-logo="http://103.176.90.95/images/988718.png" ,NL| ZIGGO SPORT 5 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| ZIGGO SPORT 6 LQ" tvg-logo="http://103.176.90.95/images/988717.png" ,NL| ZIGGO SPORT 6 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 1 LQ" tvg-logo="http://103.176.90.95/images/988716.png" ,NL| EUROSPORT 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988716&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| EUROSPORT 2 LQ" tvg-logo="http://103.176.90.95/images/988715.png" ,NL| EUROSPORT 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=988715&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NL| HORST AAN DE MAAS" tvg-logo="http://103.176.90.95/images/1808714.png" ,NL| HORST AAN DE MAAS
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1808714&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OD| FASHIONTV ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687403.png" ,OD| FASHIONTV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687403&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### ODIDO SPORT ᴿᴬᵂ ᴳᴼᴸᴰ #####" tvg-logo="" ,##### ODIDO SPORT ᴿᴬᵂ ᴳᴼᴸᴰ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687475&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687474.png" ,OD| ESPN ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687474&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687473.png" ,OD| ESPN 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687473&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687472.png" ,OD| ESPN 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687472&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687471.png" ,OD| ESPN 4 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687471&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT 5 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687470.png" ,OD| ZIGGO SPORT 5 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687470&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687469.png" ,OD| ZIGGO SPORT 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687469&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687468.png" ,OD| ZIGGO SPORT 4 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687468&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687467.png" ,OD| ZIGGO SPORT ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687467&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT 6 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687466.png" ,OD| ZIGGO SPORT 6 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687466&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687465.png" ,OD| ZIGGO SPORT 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687465&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| EURO SPORT 1 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687464.png" ,OD| EURO SPORT 1 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687464&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| EURO SPORT 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1687463.png" ,OD| EURO SPORT 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687463&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OD| FASHIONTV ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687216.png" ,OD| FASHIONTV ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687216&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### ODIDO SPORT ᴴᴰ ᴳᴼᴸᴰ #####" tvg-logo="" ,##### ODIDO SPORT ᴴᴰ ᴳᴼᴸᴰ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687267&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687266.png" ,OD| ESPN ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687266&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 2 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687265.png" ,OD| ESPN 2 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687265&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 3 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687264.png" ,OD| ESPN 3 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687264&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ESPN 4 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687263.png" ,OD| ESPN 4 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687263&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687259.png" ,OD| ZIGGO SPORT ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687259&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT VOETBAL ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687257.png" ,OD| ZIGGO SPORT VOETBAL ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687257&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT DOCU ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687262.png" ,OD| ZIGGO SPORT DOCU ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687262&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT GOLF ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687261.png" ,OD| ZIGGO SPORT GOLF ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687261&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT RACING ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687260.png" ,OD| ZIGGO SPORT RACING ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687260&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| ZIGGO SPORT TENNIS ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687258.png" ,OD| ZIGGO SPORT TENNIS ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687258&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| EURO SPORT 1 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687256.png" ,OD| EURO SPORT 1 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687256&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OD| EURO SPORT 2 ᴴᴰ" tvg-logo="http://103.176.90.95/images/1687255.png" ,OD| EURO SPORT 2 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1687255&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####" tvg-logo="" ,#### CANAL+ ONLINE SPORT ᴿᴬᵂ ####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698849&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIAPLAY TV ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698848.png" ,PLAY+| VIAPLAY TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698848&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698847.png" ,PLAY+| ESPN ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698847&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698846.png" ,PLAY+| ESPN 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698846&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 3 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698845.png" ,PLAY+| ESPN 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698845&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698844.png" ,PLAY+| ESPN 4 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698844&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1698843.png" ,PLAY+| ZIGGO SPORT ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT 2 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/images/1698842.png" ,PLAY+| ZIGGO SPORT 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698842&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT 6 ᴿᴬᵂ" tvg-logo="http://103.176.90.92/images/1698841.png" ,PLAY+| ZIGGO SPORT 6 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698841&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FIGHT BOX ᴿᴬᵂ" tvg-logo="http://103.176.90.92/images/1698840.png" ,PLAY+| FIGHT BOX ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698840&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| AUTO MOTOR SPORT ᴿᴬᵂ" tvg-logo="http://103.176.90.92/images/1698839.png" ,PLAY+| AUTO MOTOR SPORT ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698839&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### CANAL+ ONLINE SPORT ᴴᴰ ####" tvg-logo="" ,#### CANAL+ ONLINE SPORT ᴴᴰ ####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698821&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| VIAPLAY TV ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698820.png" ,PLAY+| VIAPLAY TV ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698820&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698819.png" ,PLAY+| ESPN ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698819&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 2 ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698818.png" ,PLAY+| ESPN 2 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698818&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 3 ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698817.png" ,PLAY+| ESPN 3 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698817&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ESPN 4 ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698816.png" ,PLAY+| ESPN 4 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698816&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698815.png" ,PLAY+| ZIGGO SPORT ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698815&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT 2 ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698814.png" ,PLAY+| ZIGGO SPORT 2 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| ZIGGO SPORT 6 ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698813.png" ,PLAY+| ZIGGO SPORT 6 ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698813&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| FIGHT BOX ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698812.png" ,PLAY+| FIGHT BOX ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698812&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAY+| AUTO MOTOR SPORT ᴴᴰ" tvg-logo="http://103.176.90.92/images/1698811.png" ,PLAY+| AUTO MOTOR SPORT ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1698811&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BE| SPORT 10 HD" tvg-logo="http://103.176.90.95/images/1796638.png" ,BE| SPORT 10 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796638&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| W SPORTS FHD" tvg-logo="http://103.176.90.95/images/1796637.png" ,BE| W SPORTS FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796637&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN 1 (NL) HD" tvg-logo="http://103.176.90.92/images/1796636.png" ,BE| DAZN 1 (NL) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796636&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN 2 (NL) HD" tvg-logo="http://103.176.90.92/images/1796635.png" ,BE| DAZN 2 (NL) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796635&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN 3 (NL) HD" tvg-logo="http://103.176.90.92/images/1796634.png" ,BE| DAZN 3 (NL) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796634&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUE 1 (FR) HD" tvg-logo="http://103.176.90.92/images/1796633.png" ,BE| DAZN PRO LEAGUE 1 (FR) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796633&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUE 2 (NL) HD" tvg-logo="http://103.176.90.92/images/1796632.png" ,BE| DAZN PRO LEAGUE 2 (NL) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796632&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUE 3 (NL) HD" tvg-logo="http://103.176.90.92/images/1796631.png" ,BE| DAZN PRO LEAGUE 3 (NL) HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796631&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAYMORE CINEMA FHD" tvg-logo="http://103.176.90.95/images/1796630.png" ,BE| PLAYMORE CINEMA FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAYMORE BLACK FHD" tvg-logo="http://103.176.90.95/images/1796629.png" ,BE| PLAYMORE BLACK FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796629&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAYMORE KICKS FHD" tvg-logo="http://103.176.90.95/images/1796628.png" ,BE| PLAYMORE KICKS FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1796628&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS HD #####" tvg-logo="" ,##### BE SPORTS HD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811942&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS PL HD" tvg-logo="http://103.176.90.92/images/931400.png" ,BE| PLAY SPORTS PL HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=931400&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 1 HD" tvg-logo="http://103.176.90.92/images/811941.png" ,BE| PLAY SPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811941&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 2 HD" tvg-logo="http://103.176.90.92/images/811940.png" ,BE| PLAY SPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811940&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 3 HD" tvg-logo="http://103.176.90.92/images/811939.png" ,BE| PLAY SPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811939&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 4 HD" tvg-logo="http://103.176.90.92/images/1459665.png" ,BE| PLAY SPORTS 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1459665&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS GOLF HD" tvg-logo="http://103.176.90.92/images/811936.png" ,BE| PLAY SPORTS GOLF HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811936&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUES 1 HD (VL)" tvg-logo="http://103.176.90.92/images/811935.png" ,BE| DAZN PRO LEAGUES 1 HD (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811935&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUES 2 HD (VL)" tvg-logo="http://103.176.90.92/images/811934.png" ,BE| DAZN PRO LEAGUES 2 HD (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811934&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUES 3 HD (VL)" tvg-logo="http://103.176.90.92/images/1340886.png" ,BE| DAZN PRO LEAGUES 3 HD (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1340886&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN SPORTS 1 (VL)" tvg-logo="http://103.176.90.92/images/811933.png" ,BE| DAZN SPORTS 1 (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811933&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN SPORTS 2 (VL)" tvg-logo="http://103.176.90.92/images/811932.png" ,BE| DAZN SPORTS 2 (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811932&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN SPORTS 3 (VL)" tvg-logo="http://103.176.90.92/images/811931.png" ,BE| DAZN SPORTS 3 (VL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811931&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| EUROSPORT 1 HD" tvg-logo="http://103.176.90.92/images/811930.png" ,BE| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811930&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| EUROSPORT 2 HD" tvg-logo="http://103.176.90.92/images/811929.png" ,BE| EUROSPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=811929&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS HEVC #####" tvg-logo="" ,##### BE SPORTS HEVC #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812024&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 1 HEVC" tvg-logo="http://103.176.90.92/images/812023.png" ,BE| PLAY SPORTS 1 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812023&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 2 HEVC" tvg-logo="http://103.176.90.92/images/812022.png" ,BE| PLAY SPORTS 2 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812022&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| PLAY SPORTS 3 HEVC" tvg-logo="http://103.176.90.92/images/812021.png" ,BE| PLAY SPORTS 3 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812021&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| DAZN PRO LEAGUES 1 HEVC (NL)" tvg-logo="http://103.176.90.92/images/812020.png" ,BE| DAZN PRO LEAGUES 1 HEVC (NL)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812020&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| EUROSPORT 1 HEVC" tvg-logo="http://103.176.90.92/images/812019.png" ,BE| EUROSPORT 1 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812019&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| EUROSPORT 2 HEVC" tvg-logo="http://103.176.90.92/images/812018.png" ,BE| EUROSPORT 2 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812018&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS WL #####" tvg-logo="" ,##### BE SPORTS WL #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812172&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 1 HD" tvg-logo="http://103.176.90.92/images/812171.png" ,BE| VOO SPORT WORLD 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812171&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 2 HD" tvg-logo="http://103.176.90.92/images/812170.png" ,BE| VOO SPORT WORLD 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812170&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| VOO SPORT WORLD 3 HD" tvg-logo="http://103.176.90.92/images/812169.png" ,BE| VOO SPORT WORLD 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812169&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 1 HD (FR)" tvg-logo="http://103.176.90.92/images/812168.png" ,BE| ELEVEN PRO LEAGUES 1 HD (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812168&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 2 HD (FR)" tvg-logo="http://103.176.90.92/images/812167.png" ,BE| ELEVEN PRO LEAGUES 2 HD (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812167&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN PRO LEAGUES 3 HD (FR)" tvg-logo="http://103.176.90.92/images/812166.png" ,BE| ELEVEN PRO LEAGUES 3 HD (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812166&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 1 (FR)" tvg-logo="http://103.176.90.92/images/812165.png" ,BE| ELEVEN SPORTS 1 (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812165&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 2 (FR)" tvg-logo="http://103.176.90.92/images/812164.png" ,BE| ELEVEN SPORTS 2 (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812164&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BE| ELEVEN SPORTS 3 (FR)" tvg-logo="http://103.176.90.92/images/812163.png" ,BE| ELEVEN SPORTS 3 (FR)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=812163&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="http://103.176.90.95/images/506552.png" ,FR| BEIN SPORTS 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506552&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="http://103.176.90.95/images/506551.png" ,FR| BEIN SPORTS 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506551&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="http://103.176.90.95/images/506550.png" ,FR| BEIN SPORTS 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506550&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 4 FHD" tvg-logo="http://103.176.90.95/images/506653.png" ,FR| BEIN SPORTS MAX 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506653&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 5 FHD" tvg-logo="http://103.176.90.95/images/506654.png" ,FR| BEIN SPORTS MAX 5 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506654&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 6 FHD" tvg-logo="http://103.176.90.95/images/506655.png" ,FR| BEIN SPORTS MAX 6 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506655&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 7 FHD" tvg-logo="http://103.176.90.95/images/506656.png" ,FR| BEIN SPORTS MAX 7 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506656&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 8 FHD" tvg-logo="http://103.176.90.95/images/506657.png" ,FR| BEIN SPORTS MAX 8 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506657&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 9 FHD" tvg-logo="http://103.176.90.95/images/506658.png" ,FR| BEIN SPORTS MAX 9 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506658&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 10 FHD" tvg-logo="http://103.176.90.95/images/506652.png" ,FR| BEIN SPORTS MAX 10 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506652&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS FHD #####" tvg-logo="" ,##### SPORTS FHD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=814559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE FHD" tvg-logo="http://103.176.90.95/images/506619.png" ,FR| L'EQUIPE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506619&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE 1 FHD" tvg-logo="http://103.176.90.95/images/1457242.png" ,FR| L'EQUIPE 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1457242&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE 2 FHD" tvg-logo="http://103.176.90.95/images/1457241.png" ,FR| L'EQUIPE 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1457241&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.95/images/506559.png" ,FR| EUROSPORT 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.95/images/506560.png" ,FR| EUROSPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506560&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 2 FHD" tvg-logo="http://103.176.90.95/images/506640.png" ,FR| MULTISPORTS 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506640&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 3 FHD" tvg-logo="http://103.176.90.95/images/506641.png" ,FR| MULTISPORTS 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506641&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 4 FHD" tvg-logo="http://103.176.90.95/images/506642.png" ,FR| MULTISPORTS 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506642&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 5 FHD" tvg-logo="http://103.176.90.95/images/506643.png" ,FR| MULTISPORTS 5 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506643&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 6 FHD" tvg-logo="http://103.176.90.95/images/506644.png" ,FR| MULTISPORTS 6 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506644&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| FOOT+ FHD" tvg-logo="http://103.176.90.95/images/506539.png" ,FR| FOOT+ FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506539&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| INFOSPORT+ FHD" tvg-logo="http://103.176.90.95/images/506562.png" ,FR| INFOSPORT+ FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506562&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EQUIDIA FHD" tvg-logo="http://103.176.90.95/images/506543.png" ,FR| EQUIDIA FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE FHD" tvg-logo="http://103.176.90.95/images/506536.png" ,FR| SPORT EN FRANCE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506536&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| AUTOMOTO LA CHAINE FHD" tvg-logo="http://103.176.90.95/images/506545.png" ,FR| AUTOMOTO LA CHAINE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF+ FHD" tvg-logo="http://103.176.90.95/images/506541.png" ,FR| GOLF+ FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="http://103.176.90.95/images/506542.png" ,FR| GOLF CHANNEL FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506542&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| ES1 FHD" tvg-logo="http://103.176.90.95/images/506563.png" ,FR| ES1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506563&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE SPORT STARS FHD" tvg-logo="http://103.176.90.95/images/506537.png" ,FR| TRACE SPORT STARS FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=506537&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC TALK SPORT HD" tvg-logo="http://103.176.90.95/images/1624661.png" ,FR| RMC TALK SPORT HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1624661&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://103.176.90.95/images/507383.png" ,FR| RMC SPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507383&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://103.176.90.95/images/507382.png" ,FR| RMC SPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507382&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 5 HD" tvg-logo="http://103.176.90.95/images/507364.png" ,FR| RMC SPORT LIVE 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507364&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 6 HD" tvg-logo="http://103.176.90.95/images/507363.png" ,FR| RMC SPORT LIVE 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507363&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 7 HD" tvg-logo="http://103.176.90.95/images/507362.png" ,FR| RMC SPORT LIVE 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507362&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 8 HD" tvg-logo="http://103.176.90.95/images/507361.png" ,FR| RMC SPORT LIVE 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507361&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 9 HD" tvg-logo="http://103.176.90.95/images/507360.png" ,FR| RMC SPORT LIVE 9 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507360&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 10 HD" tvg-logo="http://103.176.90.95/images/507359.png" ,FR| RMC SPORT LIVE 10 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507359&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 11 HD" tvg-logo="http://103.176.90.95/images/507358.png" ,FR| RMC SPORT LIVE 11 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507358&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 12 HD" tvg-logo="http://103.176.90.95/images/507357.png" ,FR| RMC SPORT LIVE 12 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507357&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BIEN SPORT HD #####" tvg-logo="" ,##### BIEN SPORT HD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=814580&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.95/images/507386.png" ,FR| BEIN SPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507386&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.95/images/507385.png" ,FR| BEIN SPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507385&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.95/images/507384.png" ,FR| BEIN SPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507384&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 4 HD" tvg-logo="http://103.176.90.95/images/507371.png" ,FR| BEIN SPORTS MAX 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507371&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 5 HD" tvg-logo="http://103.176.90.95/images/507370.png" ,FR| BEIN SPORTS MAX 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507370&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 6 HD" tvg-logo="http://103.176.90.95/images/507369.png" ,FR| BEIN SPORTS MAX 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507369&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 7 HD" tvg-logo="http://103.176.90.95/images/507368.png" ,FR| BEIN SPORTS MAX 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507368&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 8 HD" tvg-logo="http://103.176.90.95/images/507367.png" ,FR| BEIN SPORTS MAX 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507367&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 9 HD" tvg-logo="http://103.176.90.95/images/507366.png" ,FR| BEIN SPORTS MAX 9 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507366&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 10 HD" tvg-logo="http://103.176.90.95/images/507365.png" ,FR| BEIN SPORTS MAX 10 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507365&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS HD #####" tvg-logo="" ,##### SPORTS HD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=814581&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE HD" tvg-logo="http://103.176.90.95/images/507453.png" ,FR| L'EQUIPE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507453&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 HD" tvg-logo="http://103.176.90.95/images/507388.png" ,FR| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507388&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 HD" tvg-logo="http://103.176.90.95/images/507387.png" ,FR| EUROSPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507387&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 1 HD" tvg-logo="http://picons.cmshulk.com/picons/507346.png" ,FR| EUROSPORT 360 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507346&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 2 HD" tvg-logo="http://picons.cmshulk.com/picons/507345.png" ,FR| EUROSPORT 360 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507345&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 3 HD" tvg-logo="http://picons.cmshulk.com/picons/507344.png" ,FR| EUROSPORT 360 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507344&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 4 HD" tvg-logo="http://picons.cmshulk.com/picons/507343.png" ,FR| EUROSPORT 360 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507343&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 5 HD" tvg-logo="http://picons.cmshulk.com/picons/507342.png" ,FR| EUROSPORT 360 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507342&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 6 HD" tvg-logo="http://picons.cmshulk.com/picons/507341.png" ,FR| EUROSPORT 360 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507341&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 7 HD" tvg-logo="http://picons.cmshulk.com/picons/507340.png" ,FR| EUROSPORT 360 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507340&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 8 HD" tvg-logo="http://picons.cmshulk.com/picons/507339.png" ,FR| EUROSPORT 360 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507339&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 1 HD" tvg-logo="http://103.176.90.95/images/507352.png" ,FR| MULTISPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507352&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 2 HD" tvg-logo="http://103.176.90.95/images/507351.png" ,FR| MULTISPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507351&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 3 HD" tvg-logo="http://103.176.90.95/images/507350.png" ,FR| MULTISPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507350&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 4 HD" tvg-logo="http://103.176.90.95/images/507349.png" ,FR| MULTISPORTS 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507349&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 5 HD" tvg-logo="http://103.176.90.95/images/507348.png" ,FR| MULTISPORTS 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507348&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 6 HD" tvg-logo="http://103.176.90.95/images/507347.png" ,FR| MULTISPORTS 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507347&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| FOOT+ 24/24 HD" tvg-logo="http://103.176.90.95/images/507374.png" ,FR| FOOT+ 24/24 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507374&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| INFOSPORT+ HD" tvg-logo="http://103.176.90.95/images/507396.png" ,FR| INFOSPORT+ HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507396&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| OL TV HD" tvg-logo="http://103.176.90.95/images/507379.png" ,FR| OL TV HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507379&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EQUIDIA HD" tvg-logo="http://103.176.90.95/images/507377.png" ,FR| EQUIDIA HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507377&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE HD" tvg-logo="http://103.176.90.95/images/507389.png" ,FR| SPORT EN FRANCE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507389&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| AUTOMOTO LA CHAINE HD" tvg-logo="http://103.176.90.95/images/507378.png" ,FR| AUTOMOTO LA CHAINE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507378&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF+ HD" tvg-logo="http://103.176.90.95/images/507376.png" ,FR| GOLF+ HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507376&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF CHANNEL HD" tvg-logo="http://103.176.90.95/images/507375.png" ,FR| GOLF CHANNEL HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507375&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| ES1 HD" tvg-logo="http://103.176.90.95/images/507397.png" ,FR| ES1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507397&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE SPORTS HD" tvg-logo="http://103.176.90.95/images/507390.png" ,FR| TRACE SPORTS HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507390&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 LQ" tvg-logo="http://103.176.90.95/images/507539.png" ,FR| RMC SPORT 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507539&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 LQ" tvg-logo="http://103.176.90.95/images/507538.png" ,FR| RMC SPORT 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507538&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS LQ #####" tvg-logo="" ,##### BEIN SPORTS LQ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=814945&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.95/images/507542.png" ,FR| BEIN SPORTS 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507542&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.95/images/507541.png" ,FR| BEIN SPORTS 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 LQ" tvg-logo="http://103.176.90.95/images/507540.png" ,FR| BEIN SPORTS 3 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507540&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS LQ #####" tvg-logo="" ,##### SPORTS LQ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=814946&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE LQ" tvg-logo="http://103.176.90.95/images/507609.png" ,FR| L'EQUIPE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507609&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EQUIDIA LQ" tvg-logo="http://103.176.90.95/images/507533.png" ,FR| EQUIDIA LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 LQ" tvg-logo="http://103.176.90.95/images/507544.png" ,FR| EUROSPORT 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507544&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 LQ" tvg-logo="http://103.176.90.95/images/507543.png" ,FR| EUROSPORT 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| FOOT+ 24/24 LQ" tvg-logo="http://103.176.90.95/images/507530.png" ,FR| FOOT+ 24/24 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507530&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| INFOSPORT+ LQ" tvg-logo="http://103.176.90.95/images/507552.png" ,FR| INFOSPORT+ LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507552&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| OL TV LQ" tvg-logo="http://103.176.90.95/images/507535.png" ,FR| OL TV LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507535&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE LQ" tvg-logo="http://103.176.90.95/images/507545.png" ,FR| SPORT EN FRANCE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| AUTOMOTO LA CHAINE LQ" tvg-logo="http://103.176.90.95/images/507534.png" ,FR| AUTOMOTO LA CHAINE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507534&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF+ LQ" tvg-logo="http://103.176.90.95/images/507532.png" ,FR| GOLF+ LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507532&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF CHANNEL LQ" tvg-logo="http://103.176.90.95/images/507531.png" ,FR| GOLF CHANNEL LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507531&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| ES1 LQ" tvg-logo="http://103.176.90.95/images/507553.png" ,FR| ES1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507553&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE SPORTS LQ" tvg-logo="http://103.176.90.95/images/507546.png" ,FR| TRACE SPORTS LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507546&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 (PRIME) FHD" tvg-logo="http://103.176.90.95/images/1637558.png" ,FR| EUROSPORT 1 (PRIME) FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637558&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 (PRIME) FHD" tvg-logo="http://103.176.90.95/images/1637557.png" ,FR| EUROSPORT 2 (PRIME) FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637557&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 4" tvg-logo="http://103.176.90.95/images/1637556.png" ,FR| EUROSPORT 4
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637556&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 5" tvg-logo="http://103.176.90.95/images/1637555.png" ,FR| EUROSPORT 5
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637555&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 6" tvg-logo="http://103.176.90.95/images/1637554.png" ,FR| EUROSPORT 6
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637554&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 7" tvg-logo="http://103.176.90.95/images/1637553.png" ,FR| EUROSPORT 7
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637553&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 8" tvg-logo="http://103.176.90.95/images/1637552.png" ,FR| EUROSPORT 8
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637552&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 9" tvg-logo="http://103.176.90.95/images/1637551.png" ,FR| EUROSPORT 9
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637551&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 9" tvg-logo="http://103.176.90.95/images/1637550.png" ,FR| EUROSPORT 360 9
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637550&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 10" tvg-logo="http://103.176.90.95/images/1637549.png" ,FR| EUROSPORT 360 10
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637549&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 11" tvg-logo="http://103.176.90.95/images/1637548.png" ,FR| EUROSPORT 360 11
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637548&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 12" tvg-logo="http://103.176.90.95/images/1637547.png" ,FR| EUROSPORT 360 12
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637547&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 13" tvg-logo="http://103.176.90.95/images/1637546.png" ,FR| EUROSPORT 360 13
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637546&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 14" tvg-logo="http://103.176.90.95/images/1637545.png" ,FR| EUROSPORT 360 14
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 15" tvg-logo="http://103.176.90.95/images/1637544.png" ,FR| EUROSPORT 360 15
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637544&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 16" tvg-logo="http://103.176.90.95/images/1637543.png" ,FR| EUROSPORT 360 16
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 17" tvg-logo="http://103.176.90.95/images/1637542.png" ,FR| EUROSPORT 360 17
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637542&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 18" tvg-logo="http://103.176.90.95/images/1637541.png" ,FR| EUROSPORT 360 18
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 19" tvg-logo="http://103.176.90.95/images/1637540.png" ,FR| EUROSPORT 360 19
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637540&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 20" tvg-logo="http://103.176.90.95/images/1637539.png" ,FR| EUROSPORT 360 20
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637539&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 21" tvg-logo="http://103.176.90.95/images/1637538.png" ,FR| EUROSPORT 360 21
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637538&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 22" tvg-logo="http://103.176.90.95/images/1637537.png" ,FR| EUROSPORT 360 22
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637537&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 23" tvg-logo="http://103.176.90.95/images/1637536.png" ,FR| EUROSPORT 360 23
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637536&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 24" tvg-logo="http://103.176.90.95/images/1637535.png" ,FR| EUROSPORT 360 24
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637535&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 25" tvg-logo="http://103.176.90.95/images/1637534.png" ,FR| EUROSPORT 360 25
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637534&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 26" tvg-logo="http://103.176.90.95/images/1637533.png" ,FR| EUROSPORT 360 26
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 27" tvg-logo="http://103.176.90.95/images/1637532.png" ,FR| EUROSPORT 360 27
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637532&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 28" tvg-logo="http://103.176.90.95/images/1637531.png" ,FR| EUROSPORT 360 28
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637531&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 29" tvg-logo="http://103.176.90.95/images/1637530.png" ,FR| EUROSPORT 360 29
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637530&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 30" tvg-logo="http://103.176.90.95/images/1637529.png" ,FR| EUROSPORT 360 30
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637529&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 31" tvg-logo="http://103.176.90.95/images/1637528.png" ,FR| EUROSPORT 360 31
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637528&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 360 32" tvg-logo="http://103.176.90.95/images/1637527.png" ,FR| EUROSPORT 360 32
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1637527&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE FOOT ᴴᴰ" tvg-logo="http://103.176.90.95/images/1569016.png" ,FR| L'ÉQUIPE LIVE FOOT ᴴᴰ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1569016&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE FOOT ᴿᴬᵂ" tvg-logo="http://103.176.90.95/images/1569010.png" ,FR| L'ÉQUIPE LIVE FOOT ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1569010&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE  1 FHD" tvg-logo="http://103.176.90.95/images/1761600.png" ,FR| L'ÉQUIPE LIVE  1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761600&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE  2 FHD" tvg-logo="http://103.176.90.95/images/1761599.png" ,FR| L'ÉQUIPE LIVE  2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761599&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE  3 FHD" tvg-logo="http://103.176.90.95/images/1761598.png" ,FR| L'ÉQUIPE LIVE  3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761598&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 4 FHD" tvg-logo="http://103.176.90.95/images/1761597.png" ,FR| L'ÉQUIPE LIVE 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761597&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 5 FHD" tvg-logo="http://103.176.90.95/images/1761596.png" ,FR| L'ÉQUIPE LIVE 5 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761596&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 6 FHD" tvg-logo="http://103.176.90.95/images/1761595.png" ,FR| L'ÉQUIPE LIVE 6 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761595&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 7 FHD" tvg-logo="http://103.176.90.95/images/1761594.png" ,FR| L'ÉQUIPE LIVE 7 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761594&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 8 FHD" tvg-logo="http://103.176.90.95/images/1761593.png" ,FR| L'ÉQUIPE LIVE 8 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761593&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'ÉQUIPE LIVE 9 FHD" tvg-logo="http://103.176.90.95/images/1761592.png" ,FR| L'ÉQUIPE LIVE 9 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1761592&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 FHD" tvg-logo="http://103.176.90.95/images/507699.png" ,SP| BEIN SPORTS 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507699&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.95/images/507698.png" ,SP| BEIN SPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507698&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 LQ" tvg-logo="http://103.176.90.95/images/507697.png" ,SP| BEIN SPORTS 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507697&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 FHD" tvg-logo="http://103.176.90.95/images/507696.png" ,SP| BEIN SPORTS 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507696&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.95/images/507695.png" ,SP| BEIN SPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507695&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 LQ" tvg-logo="http://103.176.90.95/images/507694.png" ,SP| BEIN SPORTS 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507694&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 FHD" tvg-logo="http://103.176.90.95/images/507693.png" ,SP| BEIN SPORTS 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507693&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.95/images/507692.png" ,SP| BEIN SPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507692&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 LQ" tvg-logo="http://103.176.90.95/images/507691.png" ,SP| BEIN SPORTS 3 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507691&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 4 HD" tvg-logo="http://103.176.90.95/images/507652.png" ,SP| BEIN SPORTS MAX 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507652&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 5 HD" tvg-logo="http://103.176.90.95/images/507651.png" ,SP| BEIN SPORTS MAX 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507651&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 6 HD" tvg-logo="http://103.176.90.95/images/507650.png" ,SP| BEIN SPORTS MAX 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507650&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 7 HD" tvg-logo="http://103.176.90.95/images/507649.png" ,SP| BEIN SPORTS MAX 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507649&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 8 HD" tvg-logo="http://103.176.90.95/images/507648.png" ,SP| BEIN SPORTS MAX 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507648&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 9 HD" tvg-logo="http://103.176.90.95/images/507647.png" ,SP| BEIN SPORTS MAX 9 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507647&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 10 HD" tvg-logo="http://103.176.90.95/images/507646.png" ,SP| BEIN SPORTS MAX 10 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507646&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ 360 FHD" tvg-logo="http://103.176.90.95/images/1002843.png" ,SP| CANAL+ 360 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1002843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ FOOT FHD" tvg-logo="http://103.176.90.95/images/1002842.png" ,SP| CANAL+ FOOT FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1002842&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT FHD" tvg-logo="http://103.176.90.95/images/507708.png" ,SP| CANAL+ SPORT FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507708&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT HD" tvg-logo="http://103.176.90.95/images/507707.png" ,SP| CANAL+ SPORT HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507707&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT LQ" tvg-logo="http://103.176.90.95/images/507706.png" ,SP| CANAL+ SPORT LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507706&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 1" tvg-logo="http://103.176.90.95/images/1421486.png" ,FR| CANAL+ SPORT 1
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1421486&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 2" tvg-logo="http://103.176.90.95/images/1421487.png" ,FR| CANAL+ SPORT 2
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1421487&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 3" tvg-logo="http://103.176.90.95/images/1421488.png" ,FR| CANAL+ SPORT 3
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1421488&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 4" tvg-logo="http://103.176.90.95/images/1421489.png" ,FR| CANAL+ SPORT 4
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1421489&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 5" tvg-logo="http://103.176.90.95/images/1421490.png" ,FR| CANAL+ SPORT 5
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1421490&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ TOP 14 HD" tvg-logo="http://103.176.90.95/images/507711.png" ,SP| CANAL+ TOP 14 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507711&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ TOP 14 LQ" tvg-logo="http://103.176.90.95/images/534124.png" ,SP| CANAL+ TOP 14 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=534124&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ LIGUE1 HD" tvg-logo="http://103.176.90.95/images/507713.png" ,SP| CANAL+ LIGUE1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507713&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ PL HD" tvg-logo="http://103.176.90.95/images/507712.png" ,SP| CANAL+ PL HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507712&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORTS UHD/4K" tvg-logo="http://103.176.90.95/images/1380012.png" ,SP| CANAL+ SPORTS UHD/4K
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380012&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ MOTO GP" tvg-logo="http://103.176.90.95/images/1641514.png" ,SP| CANAL+ MOTO GP
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1641514&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENEMENT SPORT 4K/UHD" tvg-logo="http://103.176.90.95/images/1380011.png" ,SP| CANAL+ EVENEMENT SPORT 4K/UHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380011&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ DAZN 1 [LIVE-EVENT]" tvg-logo="http://103.176.90.95/images/1380009.png" ,SP| CANAL+ DAZN 1 [LIVE-EVENT]
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380009&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 1" tvg-logo="http://103.176.90.95/images/1380008.png" ,SP| CANAL+ EVENT EXPERT 1
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380008&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 2" tvg-logo="http://103.176.90.95/images/1380007.png" ,SP| CANAL+ EVENT EXPERT 2
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380007&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 3" tvg-logo="http://103.176.90.95/images/1380006.png" ,SP| CANAL+ EVENT EXPERT 3
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380006&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 4" tvg-logo="http://103.176.90.95/images/1380005.png" ,SP| CANAL+ EVENT EXPERT 4
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380005&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 5" tvg-logo="http://103.176.90.95/images/1380004.png" ,SP| CANAL+ EVENT EXPERT 5
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380004&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 6" tvg-logo="http://103.176.90.95/images/1380003.png" ,SP| CANAL+ EVENT EXPERT 6
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380003&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 01" tvg-logo="http://103.176.90.95/images/1380002.png" ,SP| CANAL+ EVENT EXPERT CANAL 01
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380002&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 02" tvg-logo="http://103.176.90.95/images/1380001.png" ,SP| CANAL+ EVENT EXPERT CANAL 02
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380001&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 03" tvg-logo="http://103.176.90.95/images/1380000.png" ,SP| CANAL+ EVENT EXPERT CANAL 03
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1380000&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 04" tvg-logo="http://103.176.90.95/images/1379999.png" ,SP| CANAL+ EVENT EXPERT CANAL 04
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1379999&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 05" tvg-logo="http://103.176.90.95/images/1379998.png" ,SP| CANAL+ EVENT EXPERT CANAL 05
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1379998&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RMC SPORT #####" tvg-logo="" ,##### RMC SPORT #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=815054&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 FHD" tvg-logo="http://103.176.90.95/images/507689.png" ,SP| RMC SPORT 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507689&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 HD" tvg-logo="http://103.176.90.95/images/507688.png" ,SP| RMC SPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507688&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 LQ" tvg-logo="http://103.176.90.95/images/507687.png" ,SP| RMC SPORT 1 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507687&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 FHD" tvg-logo="http://103.176.90.95/images/507686.png" ,SP| RMC SPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507686&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 HD" tvg-logo="http://103.176.90.95/images/507685.png" ,SP| RMC SPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507685&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 LQ" tvg-logo="http://103.176.90.95/images/507684.png" ,SP| RMC SPORT 2 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507684&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 FHD" tvg-logo="http://103.176.90.95/images/1048798.png" ,SP| RMC SPORT 3 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1048798&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 HD" tvg-logo="http://103.176.90.95/images/725381.png" ,SP| RMC SPORT 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=725381&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 LQ" tvg-logo="http://103.176.90.95/images/1048797.png" ,SP| RMC SPORT 3 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1048797&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 4 FHD" tvg-logo="http://103.176.90.95/images/725380.png" ,SP| RMC SPORT 4 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=725380&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 5 HD" tvg-logo="http://103.176.90.95/images/507645.png" ,SP| RMC SPORT LIVE 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507645&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 6 HD" tvg-logo="http://103.176.90.95/images/507644.png" ,SP| RMC SPORT LIVE 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507644&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 7 HD" tvg-logo="http://103.176.90.95/images/507643.png" ,SP| RMC SPORT LIVE 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507643&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 8 HD" tvg-logo="http://103.176.90.95/images/507642.png" ,SP| RMC SPORT LIVE 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507642&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### FRANCE SPORT #####" tvg-logo="" ,##### FRANCE SPORT #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=815109&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ FHD" tvg-logo="http://103.176.90.95/images/507705.png" ,SP| INFOSPORT+ FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507705&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ HD" tvg-logo="http://103.176.90.95/images/507704.png" ,SP| INFOSPORT+ HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507704&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ LQ" tvg-logo="http://103.176.90.95/images/507703.png" ,SP| INFOSPORT+ LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507703&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA FHD" tvg-logo="http://103.176.90.95/images/507671.png" ,SP| EQUIDIA FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507671&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA HD" tvg-logo="http://103.176.90.95/images/507670.png" ,SP| EQUIDIA HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507670&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA LQ" tvg-logo="http://103.176.90.95/images/507669.png" ,SP| EQUIDIA LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507669&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE FHD" tvg-logo="http://103.176.90.95/images/507668.png" ,SP| L'EQUIPE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507668&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE HD" tvg-logo="http://103.176.90.95/images/507667.png" ,SP| L'EQUIPE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507667&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE LQ" tvg-logo="http://103.176.90.95/images/507666.png" ,SP| L'EQUIPE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507666&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 FHD" tvg-logo="http://103.176.90.95/images/507683.png" ,SP| FOOT+ 24/24 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507683&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 HD" tvg-logo="http://103.176.90.95/images/507682.png" ,SP| FOOT+ 24/24 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507682&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 LQ" tvg-logo="http://103.176.90.95/images/507681.png" ,SP| FOOT+ 24/24 LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507681&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| OL TV HD" tvg-logo="http://103.176.90.95/images/507665.png" ,SP| OL TV HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507665&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| OL TV LQ" tvg-logo="http://103.176.90.95/images/507664.png" ,SP| OL TV LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507664&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| DAZN HD" tvg-logo="http://103.176.90.95/images/1512018.png" ,SP| DAZN HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1512018&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.95/images/507702.png" ,SP| EUROSPORT 1 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507702&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 1 HD" tvg-logo="http://103.176.90.95/images/507701.png" ,SP| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507701&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.95/images/507700.png" ,SP| EUROSPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507700&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 1 HD" tvg-logo="http://103.176.90.95/images/1360877.png" ,SP| EUROSPORT 360 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360877&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 2 HD" tvg-logo="http://103.176.90.95/images/1360876.png" ,SP| EUROSPORT 360 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360876&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 3 HD" tvg-logo="http://103.176.90.95/images/1360875.png" ,SP| EUROSPORT 360 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360875&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 4 HD" tvg-logo="http://103.176.90.95/images/1360874.png" ,SP| EUROSPORT 360 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360874&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 5 HD" tvg-logo="http://103.176.90.95/images/1360873.png" ,SP| EUROSPORT 360 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360873&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 6 HD" tvg-logo="http://103.176.90.95/images/1360872.png" ,SP| EUROSPORT 360 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360872&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 7 HD" tvg-logo="http://103.176.90.95/images/1360871.png" ,SP| EUROSPORT 360 7 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360871&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 8 HD" tvg-logo="http://103.176.90.95/images/1360870.png" ,SP| EUROSPORT 360 8 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1360870&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE FHD" tvg-logo="http://103.176.90.95/images/507663.png" ,SP| SPORT EN FRANCE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507663&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE HD" tvg-logo="http://103.176.90.95/images/507662.png" ,SP| SPORT EN FRANCE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507662&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE LQ" tvg-logo="http://103.176.90.95/images/507661.png" ,SP| SPORT EN FRANCE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507661&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE FHD" tvg-logo="http://103.176.90.95/images/507674.png" ,SP| AUTOMOTO LA CHAINE FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507674&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE HD" tvg-logo="http://103.176.90.95/images/507673.png" ,SP| AUTOMOTO LA CHAINE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507673&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE LQ" tvg-logo="http://103.176.90.95/images/507672.png" ,SP| AUTOMOTO LA CHAINE LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507672&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 1 HD" tvg-logo="http://103.176.90.95/images/507633.png" ,SP| MULTISPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507633&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 2 HD" tvg-logo="http://103.176.90.95/images/507632.png" ,SP| MULTISPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507632&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 3 HD" tvg-logo="http://103.176.90.95/images/507631.png" ,SP| MULTISPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507631&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 4 HD" tvg-logo="http://103.176.90.95/images/507630.png" ,SP| MULTISPORTS 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 5 HD" tvg-logo="http://103.176.90.95/images/507629.png" ,SP| MULTISPORTS 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507629&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 6 HD" tvg-logo="http://103.176.90.95/images/507628.png" ,SP| MULTISPORTS 6 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507628&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ FHD" tvg-logo="http://103.176.90.95/images/507680.png" ,SP| GOLF+ FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507680&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ HD" tvg-logo="http://103.176.90.95/images/507679.png" ,SP| GOLF+ HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507679&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ LQ" tvg-logo="http://103.176.90.95/images/507678.png" ,SP| GOLF+ LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507678&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL FHD" tvg-logo="http://103.176.90.95/images/507677.png" ,SP| GOLF CHANNEL FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507677&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL HD" tvg-logo="http://103.176.90.95/images/507676.png" ,SP| GOLF CHANNEL HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507676&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL LQ" tvg-logo="http://103.176.90.95/images/507675.png" ,SP| GOLF CHANNEL LQ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=507675&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| MOTORSPORT.TV" tvg-logo="http://103.176.90.95/images/889030.png" ,FR| MOTORSPORT.TV
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=889030&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE" tvg-logo="http://103.176.90.95/images/889031.png" ,FR| SPORT EN FRANCE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=889031&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| WORLD POKER TOUR" tvg-logo="http://103.176.90.95/images/889032.png" ,FR| WORLD POKER TOUR
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=889032&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930144.png" ,GO| ESPN ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930144&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930143.png" ,GO| ESPN 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930143&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930142.png" ,GO| ESPN 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930142&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930141.png" ,GO| ESPN 4 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930141&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930140.png" ,GO| ESPN 5 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930140&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930139.png" ,GO| ESPN 6 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930139&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| ESPN 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930138.png" ,GO| ESPN 7 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930138&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| DSPORTS+ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930137.png" ,GO| DSPORTS+ ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930137&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| DSPORTS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930136.png" ,GO| DSPORTS ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930136&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| DSPORTS 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930135.png" ,GO| DSPORTS 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930135&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| DSPORTS FIGHT ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930134.png" ,GO| DSPORTS FIGHT ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930134&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| DSPORTS RADIO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930133.png" ,GO| DSPORTS RADIO ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930133&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| GOLF CHANNEL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930132.png" ,GO| GOLF CHANNEL ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930132&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| EVENTOS 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930131.png" ,GO| EVENTOS 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930131&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| EVENTOS 4 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930130.png" ,GO| EVENTOS 4 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930130&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| EVENTOS 5 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930129.png" ,GO| EVENTOS 5 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930129&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| EVENTOS 6 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930128.png" ,GO| EVENTOS 6 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930128&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GO| EVENTOS 7 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1930127.png" ,GO| EVENTOS 7 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1930127&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924196.png" ,##### PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924196&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| ACONTRA+ CINE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924195.png" ,PRIME| ACONTRA+ CINE ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924195&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| AMC ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924194.png" ,PRIME| AMC ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924194&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| AMC BREAK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924193.png" ,PRIME| AMC BREAK ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924193&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| AMC CRIME ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924192.png" ,PRIME| AMC CRIME ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924192&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| ANTENA 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924191.png" ,PRIME| ANTENA 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924191&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| ATRESERIES ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924190.png" ,PRIME| ATRESERIES ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924190&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| BE MAD ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924189.png" ,PRIME| BE MAD ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924189&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| BOING ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924188.png" ,PRIME| BOING ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924188&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| CANAL COCINA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924187.png" ,PRIME| CANAL COCINA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924187&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| CANAL HOLLYWOOD ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924186.png" ,PRIME| CANAL HOLLYWOOD ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924186&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| CNN ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924185.png" ,PRIME| CNN ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| CUATRO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924184.png" ,PRIME| CUATRO ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924184&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| DARK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924183.png" ,PRIME| DARK ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924183&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| DECASA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924182.png" ,PRIME| DECASA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924182&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| DIVINITY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924181.png" ,PRIME| DIVINITY ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924181&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| E.ENERGY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924180.png" ,PRIME| E.ENERGY ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924180&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| EUROSPORT 1 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924179.png" ,PRIME| EUROSPORT 1 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924179&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FDF ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924178.png" ,PRIME| FDF ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924178&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| HISTORIA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924177.png" ,PRIME| HISTORIA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924177&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| LALIGA HYPERMOTION TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924176.png" ,PRIME| LALIGA HYPERMOTION TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924176&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| LALIGA HYPERMOTION TV 2 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924175.png" ,PRIME| LALIGA HYPERMOTION TV 2 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924175&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| LALIGA HYPERMOTION TV 3 ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924174.png" ,PRIME| LALIGA HYPERMOTION TV 3 ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924174&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| LASEXTA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924173.png" ,PRIME| LASEXTA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924173&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| MEGA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924172.png" ,PRIME| MEGA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924172&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| MEZZO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924171.png" ,PRIME| MEZZO ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924171&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| MEZZO LIVE ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924170.png" ,PRIME| MEZZO LIVE ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924170&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NBA TV INTERNATIONAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924169.png" ,PRIME| NBA TV INTERNATIONAL ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924169&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NEGOCIOS TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924168.png" ,PRIME| NEGOCIOS TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924168&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NEOX ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924167.png" ,PRIME| NEOX ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924167&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NFL NETWORK ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924166.png" ,PRIME| NFL NETWORK ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924166&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| NOVA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924165.png" ,PRIME| NOVA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924165&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| ODISEA ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924164.png" ,PRIME| ODISEA ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924164&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| RED BULL TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924163.png" ,PRIME| RED BULL TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924163&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SOMOS ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924162.png" ,PRIME| SOMOS ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924162&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| SUNDANCE TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924161.png" ,PRIME| SUNDANCE TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924161&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| TELECINCO ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924160.png" ,PRIME| TELECINCO ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924160&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| VINTV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924159.png" ,PRIME| VINTV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924159&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| VIZNER TV ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924158.png" ,PRIME| VIZNER TV ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924158&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| XTRM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924157.png" ,PRIME| XTRM ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924157&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| �BUEN VIAJE! ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/1924156.png" ,PRIME| �BUEN VIAJE! ᴿᴬᵂ
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1924156&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947671&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947670&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947669&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947668&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947667&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947666&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947665&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947664&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947663&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947662&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947661&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947660&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947659&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947658&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947657&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947656&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947655&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947654&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947653&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947652&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 21 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947651&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 22 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947650&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 23 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947649&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 24 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947648&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 25 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947647&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 26 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947646&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 27 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947645&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 28 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947644&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947643&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947642&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947641&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947640&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947639&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947638&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947637&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947636&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947635&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947634&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947633&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947632&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947631&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947629&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947628&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947627&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947626&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947625&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947624&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947623&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947622&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947621&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947620&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947619&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947618&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947617&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947616&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947615&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947614&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947613&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947612&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947611&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947610&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947609&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947608&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947607&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947606&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947605&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947604&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947603&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947602&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947601&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947600&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947599&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947598&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947597&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947596&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947595&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947594&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947593&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947592&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947591&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947590&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947589&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947588&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947587&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947586&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947585&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947584&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947583&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947582&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947581&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947580&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947579&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947578&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947577&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947576&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947575&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947574&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947573&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV FOOTBALL PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/PPV/TVFOOTBALL.png" ,ES: TV FOOTBALL PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1947572&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 1 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510711.png" ,ES| FOOTBALL 1 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510711&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 2 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510712.png" ,ES| FOOTBALL 2 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510712&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 3 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510713.png" ,ES| FOOTBALL 3 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510713&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 4 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510714.png" ,ES| FOOTBALL 4 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510714&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 5 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510715.png" ,ES| FOOTBALL 5 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510715&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 6 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510716.png" ,ES| FOOTBALL 6 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510716&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 7 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510717.png" ,ES| FOOTBALL 7 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 8 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510718.png" ,ES| FOOTBALL 8 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 9 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510719.png" ,ES| FOOTBALL 9 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510719&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 10 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510720.png" ,ES| FOOTBALL 10 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 11 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510721.png" ,ES| FOOTBALL 11 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 12 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510722.png" ,ES| FOOTBALL 12 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 13 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510723.png" ,ES| FOOTBALL 13 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510723&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 14 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510724.png" ,ES| FOOTBALL 14 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510724&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 15 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510725.png" ,ES| FOOTBALL 15 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510725&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 16 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510726.png" ,ES| FOOTBALL 16 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510726&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 17 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510727.png" ,ES| FOOTBALL 17 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510727&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 18 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510728.png" ,ES| FOOTBALL 18 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510728&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 19 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510729.png" ,ES| FOOTBALL 19 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510729&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOOTBALL 20 FHD (SOLO EVENTOS)" tvg-logo="http://103.176.90.92/images/1510730.png" ,ES| FOOTBALL 20 FHD (SOLO EVENTOS)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510730&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### OTROS DEPORTES HD #####" tvg-logo="" ,##### OTROS DEPORTES HD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548452&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL PLAY HD" tvg-logo="http://103.176.90.92/images/1547281.png" ,ES| GOL PLAY HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547281&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.COPA DEL REY HD" tvg-logo="http://103.176.90.92/images/1547282.png" ,ES| M.COPA DEL REY HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547282&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.FORMULA1 HD" tvg-logo="http://103.176.90.92/images/107559.png" ,ES| M.FORMULA1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT 1 HD" tvg-logo="http://103.176.90.92/images/107603.png" ,ES| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107603&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT 2 HD" tvg-logo="http://103.176.90.92/images/1510696.png" ,ES| EUROSPORT 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510696&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| ESPORT 3 HD" tvg-logo="http://103.176.90.92/images/1547288.png" ,ES| ESPORT 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547288&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE HD" tvg-logo="http://103.176.90.92/images/107533.png" ,ES| TELEDEPORTE HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| BARCA TV SD" tvg-logo="http://103.176.90.92/images/1510754.png" ,ES| BARCA TV SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510754&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.GOLF HD" tvg-logo="http://103.176.90.92/images/107574.png" ,ES| M.GOLF HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107574&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.GOLF 2 HD" tvg-logo="http://103.176.90.92/images/1334473.png" ,ES| M.GOLF 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1334473&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOX SPORTS PREMIUM" tvg-logo="http://103.176.90.92/images/984953.png" ,ES| FOX SPORTS PREMIUM
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=984953&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOX SPORTS 1 HD" tvg-logo="http://103.176.90.92/images/984950.png" ,ES| FOX SPORTS 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=984950&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOX SPORTS 2 HD" tvg-logo="http://103.176.90.92/images/984951.png" ,ES| FOX SPORTS 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=984951&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOX SPORTS 3 HD" tvg-logo="http://103.176.90.92/images/984952.png" ,ES| FOX SPORTS 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=984952&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL MUNDIAL 1 HD" tvg-logo="http://103.176.90.92/images/1547295.png" ,ES| GOL MUNDIAL 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547295&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL MUNDIAL 2 HD" tvg-logo="http://103.176.90.92/images/1547297.png" ,ES| GOL MUNDIAL 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547297&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL MUNDIAL 3 HD" tvg-logo="http://103.176.90.92/images/1547299.png" ,ES| GOL MUNDIAL 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL MUNDIAL 4 HD" tvg-logo="http://103.176.90.92/images/1547301.png" ,ES| GOL MUNDIAL 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547301&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL MUNDIAL 5 HD" tvg-logo="http://103.176.90.92/images/1547303.png" ,ES| GOL MUNDIAL 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547303&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### OTROS DEPORTES SD #####" tvg-logo="" ,##### OTROS DEPORTES SD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548454&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| GOL PLAY SD" tvg-logo="http://103.176.90.92/images/107598.png" ,ES| GOL PLAY SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107598&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.COPA DEL REY SD" tvg-logo="http://103.176.90.92/images/1547283.png" ,ES| M.COPA DEL REY SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547283&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT 1 SD" tvg-logo="http://103.176.90.92/images/1547287.png" ,ES| EUROSPORT 1 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547287&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT 2 SD" tvg-logo="http://103.176.90.92/images/107604.png" ,ES| EUROSPORT 2 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107604&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| TELEDEPORTE SD" tvg-logo="http://103.176.90.92/images/1547289.png" ,ES| TELEDEPORTE SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547289&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| BARCA TV HD" tvg-logo="http://103.176.90.92/images/1510752.png" ,ES| BARCA TV HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510752&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.GOLF SD" tvg-logo="http://103.176.90.92/images/1547285.png" ,ES| M.GOLF SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547285&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.GOLF 2 SD" tvg-logo="http://103.176.90.92/images/1547286.png" ,ES| M.GOLF 2 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547286&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### TOROS FHD #####" tvg-logo="" ,##### TOROS FHD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548455&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONETORO FHD" tvg-logo="http://103.176.90.95/images/1547290.png" ,ES| ONETORO FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547290&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONETORO FHD (BK)" tvg-logo="http://103.176.90.95/images/1183433.png" ,ES| ONETORO FHD (BK)
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1183433&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO FHD" tvg-logo="http://103.176.90.95/images/1510756.png" ,ES| EL TORO FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510756&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| TOROS FHD" tvg-logo="http://103.176.90.95/images/107531.png" ,ES| TOROS FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107531&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### TOROS HD #####" tvg-logo="" ,##### TOROS HD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548457&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONETORO HD" tvg-logo="http://103.176.90.95/images/1547291.png" ,ES| ONETORO HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1547291&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO HD" tvg-logo="http://103.176.90.95/images/920269.png" ,ES| EL TORO HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920269&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### TOROS SD #####" tvg-logo="" ,##### TOROS SD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548456&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| ONETORO SD" tvg-logo="http://103.176.90.95/images/118988.png" ,ES| ONETORO SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118988&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| EL TORO SD" tvg-logo="http://103.176.90.95/images/1510693.png" ,ES| EL TORO SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510693&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### M+ VAMOS FHD #####" tvg-logo="" ,##### M+ VAMOS FHD #####
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1548486&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS HEVC" tvg-logo="http://103.176.90.95/images/119027.png" ,ES| #VAMOS HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=119027&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| #VAMOS FHD" tvg-logo="http://103.176.90.95/images/1510692.png" ,ES| #VAMOS FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510692&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M.ELLAS #V FHD" tvg-logo="http://103.176.90.95/images/1510759.png" ,ES| M.ELLAS #V FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1510759&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL 11 HD" tvg-logo="http://103.176.90.95/images/107524.png" ,PT| CANAL 11 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107524&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL 11 HEVC" tvg-logo="http://103.176.90.95/images/118466.png" ,PT| CANAL 11 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118466&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV + HD" tvg-logo="http://103.176.90.95/images/107437.png" ,PT| SPORT TV + HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107437&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV+ HEVC" tvg-logo="http://103.176.90.95/images/368058.png" ,PT| SPORT TV+ HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=368058&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://103.176.90.95/images/107436.png" ,PT| SPORT TV 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107436&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HEVC" tvg-logo="http://103.176.90.95/images/118447.png" ,PT| SPORT TV 1 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118447&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 SD" tvg-logo="http://103.176.90.95/images/148671.png" ,PT| SPORT TV 1 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=148671&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://103.176.90.95/images/107435.png" ,PT| SPORT TV 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107435&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HEVC" tvg-logo="http://103.176.90.95/images/118446.png" ,PT| SPORT TV 2 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118446&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 SD" tvg-logo="http://103.176.90.95/images/148670.png" ,PT| SPORT TV 2 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=148670&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://103.176.90.95/images/107434.png" ,PT| SPORT TV 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107434&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HEVC" tvg-logo="http://103.176.90.95/images/118445.png" ,PT| SPORT TV 3 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118445&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 SD" tvg-logo="http://103.176.90.95/images/148669.png" ,PT| SPORT TV 3 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=148669&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://103.176.90.95/images/107433.png" ,PT| SPORT TV 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107433&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 SD" tvg-logo="http://103.176.90.95/images/148668.png" ,PT| SPORT TV 4 SD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=148668&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 HD" tvg-logo="http://103.176.90.95/images/148667.png" ,PT| SPORT TV 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=148667&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 FHD" tvg-logo="http://103.176.90.95/images/1809290.png" ,PT| SPORT TV 5 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1809290&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 6 FHD" tvg-logo="http://103.176.90.95/images/712739.png" ,PT| SPORT TV 6 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=712739&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 7 FHD" tvg-logo="http://103.176.90.95/images/1613387.png" ,PT| SPORT TV 7 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1613387&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HD" tvg-logo="http://103.176.90.95/images/107431.png" ,PT| SPORT TV NBA HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107431&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HEVC" tvg-logo="http://103.176.90.95/images/118444.png" ,PT| SPORT TV NBA HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118444&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HD" tvg-logo="http://103.176.90.95/images/107495.png" ,PT| DAZN 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107495&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HEVC" tvg-logo="http://103.176.90.95/images/118459.png" ,PT| DAZN 1 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118459&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HD" tvg-logo="http://103.176.90.95/images/107494.png" ,PT| DAZN 2 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107494&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HEVC" tvg-logo="http://103.176.90.95/images/118458.png" ,PT| DAZN 2 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118458&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3" tvg-logo="http://103.176.90.95/images/107493.png" ,PT| DAZN 3
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107493&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 HD" tvg-logo="http://103.176.90.95/images/122484.png" ,PT| DAZN 3 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=122484&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4" tvg-logo="http://103.176.90.95/images/107492.png" ,PT| DAZN 4
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107492&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 HD" tvg-logo="http://103.176.90.95/images/122485.png" ,PT| DAZN 4 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=122485&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5" tvg-logo="http://103.176.90.95/images/107491.png" ,PT| DAZN 5
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107491&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 HD" tvg-logo="http://103.176.90.95/images/122486.png" ,PT| DAZN 5 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=122486&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 6" tvg-logo="http://103.176.90.95/images/107490.png" ,PT| DAZN 6
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107490&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| A BOLA TV HD" tvg-logo="http://103.176.90.95/images/107522.png" ,PT| A BOLA TV HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107522&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| BENFICA TV HD" tvg-logo="http://103.176.90.95/images/983567.png" ,PT| BENFICA TV HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=983567&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| BTV 1 HD" tvg-logo="http://103.176.90.95/images/107511.png" ,PT| BTV 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107511&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| BTV HEVC" tvg-logo="http://103.176.90.95/images/118461.png" ,PT| BTV HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118461&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORTING TV" tvg-logo="http://103.176.90.95/images/107430.png" ,PT| SPORTING TV
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107430&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 HD" tvg-logo="http://103.176.90.95/images/107488.png" ,PT| EUROSPORT 1 HD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107488&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 HEVC" tvg-logo="http://103.176.90.95/images/118457.png" ,PT| EUROSPORT 1 HEVC
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=118457&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2" tvg-logo="http://103.176.90.95/images/107487.png" ,PT| EUROSPORT 2
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107487&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT FHD" tvg-logo="http://103.176.90.95/images/1604044.png" ,PT| EUROSPORT FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1604044&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.95/images/1604042.png" ,PT| EUROSPORT 2 FHD
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=1604042&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| FUEL TV" tvg-logo="http://103.176.90.95/images/107479.png" ,PT| FUEL TV
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107479&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| MOTORVISION" tvg-logo="http://103.176.90.95/images/107468.png" ,PT| MOTORVISION
+http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=107468&extension=m3u8
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111032&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/1111031.png" ,SPORTS| MY SUPERSPORTS 4 HD
 
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111031&extension=m3u8
+
