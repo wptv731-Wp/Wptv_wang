@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/1110622.png" ,SPORTS| HK NOW PREMIER SPORTS 1 HD
+http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110622&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS SELECT 2" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-SELECT-2-HD.jpg" ,SPORTS| STAR SPORTS SELECT 2
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=282676&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| STAR SPORTS TAMIL" tvg-logo="http://103.176.90.118/picons/logos/STAR-SPORTS-TAMIL.jpg" ,SPORTS| STAR SPORTS TAMIL
@@ -23,20 +25,11 @@ http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=156024&extension=
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=282672&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| TEN 4 FHD" tvg-logo="http://picons.cmshulk.com/picons/1114579.png" ,SPORTS| TEN 4 FHD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1114579&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 1 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110615&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 2 HD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110616&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 3 HD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110617&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 4 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110618&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 5 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110619&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 6 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110620&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" ,SPORTS| HK NOW SPORTS 7 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110621&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/1110622.png" ,SPORTS| HK NOW PREMIER SPORTS 1 HD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110622&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 1 HD" tvg-logo="http://picons.cmshulk.com/picons/1110667.png" ,SPORTS| HUB SPORTS 1 HD
@@ -45,12 +38,6 @@ http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110667&extension
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110666&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| HUB SPORTS 3 HD" tvg-logo="http://picons.cmshulk.com/picons/1110665.png" ,SPORTS| HUB SPORTS 3 HD
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1110665&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport1.png" ,SPORTS| MY SUPERSPORTS 1 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111034&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport2.png" ,SPORTS| MY SUPERSPORTS 2 HD
-http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111033&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/supersport3.png" ,SPORTS| MY SUPERSPORTS 3 HD
-
 #EXTINF:-1 tvg-id="" tvg-name="F1| MOVISTAR FORMULA 1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| MOVISTAR FORMULA 1 HD
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317784&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORT F1 IT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORT F1 IT
@@ -59,28 +46,13 @@ http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317778&ext
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317781&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 FHD
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317779&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 HD
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317782&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS F1 HD DE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS F1 HD DE
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317780&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F1| SKY SPORTS FORMULA 1 HD IT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" ,F1| SKY SPORTS FORMULA 1 HD IT
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317777&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP CANAL+" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP CANAL+
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317816&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP 360" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP 360
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920218&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP HELICOPTER" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP HELICOPTER
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920217&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP AMBIENT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP AMBIENT
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920216&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP COMMENTARY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP COMMENTARY
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920215&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TRACKING" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP LIVE TRACKING
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920214&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP LIVE TIMING" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP LIVE TIMING
-http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=920213&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP EVENT 1
 http://honeywatch.net:8000/play/live.php?mac=A0:BB:3E:00:02:65&stream=317813&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MG| MOTOGP EVENT 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" ,MG| MOTOGP EVENT 2
@@ -1664,4 +1636,5 @@ http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111032&extension
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS| MY SUPERSPORTS 4 HD" tvg-logo="http://picons.cmshulk.com/picons/1111031.png" ,SPORTS| MY SUPERSPORTS 4 HD
 
 http://23232.top:80/play/live.php?mac=A0:BB:3E:C0:9B:FB&stream=1111031&extension=m3u8
+
 
